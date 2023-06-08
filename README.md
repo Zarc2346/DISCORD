@@ -157,7 +157,6 @@
   color: var(--interactive-normal);
 }
 
-
 /**
 * @name DTM-16
 * @author 11pixels#2004
